@@ -6,8 +6,6 @@ function App() {
 
   const queryClient = new QueryClient
   
-  // const query = useQueryClient()
-
   return (
     <>
       <QueryClientProvider client={queryClient}>
