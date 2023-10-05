@@ -34,8 +34,6 @@ export function Person() {
                 <button><Link to={'/'}>Back</Link></button>
             </div>
 
-
-
         </section>
     )
 }
